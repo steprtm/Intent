@@ -9,6 +9,8 @@ DOSEN PENGAMPUH : Donny Maulana, S.Kom., M.M.S.I.
 
 Hasil Run :
 
+https://github.com/steprtm/Intent/assets/129705802/916018da-74b9-44ec-b165-10eac54f5866
+
 
 ## [MainActivity.java](https://github.com/steprtm/Intent/blob/main/app/src/main/java/com/example/allproject/MainActivity.java) - [activity_main.xml](https://github.com/steprtm/Intent/blob/main/app/src/main/res/layout/activity_main.xml) - [AndroidManifest.xml](https://github.com/steprtm/Intent/blob/main/app/src/main/AndroidManifest.xml)
 
